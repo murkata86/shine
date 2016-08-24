@@ -1,0 +1,8 @@
+D:\C#\Shine\Shine\bin\Debug\Shine.exe.config
+D:\C#\Shine\Shine\bin\Debug\Shine.exe
+D:\C#\Shine\Shine\bin\Debug\Shine.pdb
+D:\C#\Shine\Shine\obj\Debug\Shine.csprojResolveAssemblyReference.cache
+D:\C#\Shine\Shine\obj\Debug\Shine.exe
+D:\C#\Shine\Shine\obj\Debug\Shine.pdb
+D:\C#\Shine\Shine\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Shine\Shine\bin\Debug\Newtonsoft.Json.xml
